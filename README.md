@@ -1,4 +1,4 @@
-# Flash Chat
+# I Am Rich SwiftUI
 
 Project that follows the Udemy course "iOS & Swift - The Complete iOS App Development Bootcamp" created by Angela Yu.
 
